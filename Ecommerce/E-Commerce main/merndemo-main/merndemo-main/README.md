@@ -1,4 +1,4 @@
-# Team 248 - Ecommerce App
+# Team 248 - E-commerce Website
 
 <h2>Frontend</h2>  
 We built the frontend using **React**, and the production build is stored in the `client/build` folder.
