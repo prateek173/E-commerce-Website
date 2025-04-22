@@ -1,6 +1,6 @@
 # 🛒 Team 248 - Ecommerce Website
 
-An Ecommerce web application built using the **MERN stack** (MongoDB, Express, React, Node.js). This project allows users to browse products, add items to the cart, and simulate the checkout process.
+An E-commerce web application built using the **MERN stack** (MongoDB, Express, React, Node.js). This project allows users to browse products, add items to the cart, and simulate the checkout process.
 
 
 
