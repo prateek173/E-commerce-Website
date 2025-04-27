@@ -37,6 +37,6 @@ The application is hosted using **Cyclic**.
 - Frontend: React, HTML, CSS, JavaScript
 - Backend: Node.js, Express.js
 - Database: MongoDB
-- Hosting: Cyclic (Backend), Netlify/Vercel (Frontend - optional)
+- Hosting: Cyclic (Backend), Netlify/Vercel 
 
 
